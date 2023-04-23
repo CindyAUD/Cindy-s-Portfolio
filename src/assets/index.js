@@ -30,7 +30,7 @@ import carepay from "./company/carepay.png";
 import ethindia from "./company/ethindia.png";
 import ilab from "./company/ilab.png";
 import upwork from "./company/upwork.png"
-import carrent from "./carrent.png";
+import quotes from "./quotes.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
@@ -60,7 +60,7 @@ export {
   shopify,
   starbucks,
   tesla,
-  carrent,
+  quotes,
   jobit,
   tripguide,
   carepay,

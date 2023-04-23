@@ -21,7 +21,7 @@ import {
     
     figma,
     docker,
-    carrent,
+    quotes,
     jobit,
     tripguide,
     threejs,
@@ -203,25 +203,25 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Random Quote Generator",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Web-based platform that allows users to get free quotes and advice from an API.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "API",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "JSON",
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: quotes,
+      source_code_link: "https://github.com/CindyAUD/randomQuoteGenerator",
     },
     {
       name: "Job IT",
