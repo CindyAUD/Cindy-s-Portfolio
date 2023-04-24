@@ -31,6 +31,7 @@ import ethindia from "./company/ethindia.png";
 import ilab from "./company/ilab.png";
 import upwork from "./company/upwork.png"
 import advice from "./advice.png"
+
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
