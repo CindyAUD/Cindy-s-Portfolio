@@ -21,7 +21,7 @@ import {
     
     figma,
     docker,
-    quotes,
+    advice,
     jobit,
     tripguide,
     threejs,
@@ -220,7 +220,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: quotes,
+      image: advice,
       source_code_link: "https://github.com/CindyAUD/randomQuoteGenerator",
     },
     {
